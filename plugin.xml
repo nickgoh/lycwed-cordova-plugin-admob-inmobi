@@ -11,9 +11,9 @@
     </engines>
 
     <platform name="android">
-        <framework src="com.inmobi.monetization:inmobi-ads:7.0.2" />
-        <framework src="com.google.ads.mediation:inmobi:7.0.2.0" />
-        <framework src="com.squareup.picasso:picasso:2.5.2" />
+        <framework src="com.inmobi.monetization:inmobi-ads:9.0.2" />
+        <framework src="com.google.ads.mediation:inmobi:7.3.0.1" />
+        <framework src="com.squareup.picasso:picasso:2.71828" />
         <framework src="com.android.support:recyclerview-v7:xx.x.x" />
 
         <config-file parent="/manifest/application" target="AndroidManifest.xml">
